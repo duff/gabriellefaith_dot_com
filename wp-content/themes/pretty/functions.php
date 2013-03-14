@@ -67,9 +67,6 @@ function pretty_backtotop_text($backtotop) {
 add_action( 'genesis_after_footer', 'pretty_footer_top' ); 
 function pretty_footer_top() {
 	?>
-	<div class="footer-top">
-		<p><a href="#wrap"><?php _e( 'To the Top', 'pretty' ); ?></a></p>
-	</div>
 	<?php
 }
 
