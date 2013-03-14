@@ -37,9 +37,9 @@ function genesis_page_archive_content() { ?>
 			<?php wp_get_archives( 'type=monthly&show_post_count=1' ); ?>
 		</ul>
 
-		<h4><?php _e( 'Posts:', 'genesis' ); ?></h4>
+		<h4><?php _e( 'Recent Posts:', 'genesis' ); ?></h4>
 		<ul>
-			<?php wp_get_archives( 'type=postbypost&limit=100' ); ?>
+			<?php wp_get_archives( 'type=postbypost&limit=200' ); ?>
 		</ul>
 
 
