@@ -32,14 +32,9 @@ function genesis_page_archive_content() { ?>
 
 		</br>
 
-		<h4><?php _e( 'Topics:', 'genesis' ); ?></h4>
+		<h4><?php _e( 'Monthly:', 'genesis' ); ?></h4>
 		<ul>
-			<?php wp_list_categories( 'sort_column=name&show_post_count=1&title_li=' ); ?>
-		</ul>
-
-		<h4><?php _e( 'Yearly:', 'genesis' ); ?></h4>
-		<ul>
-			<?php wp_get_archives( 'type=yearly&show_post_count=1' ); ?>
+			<?php wp_get_archives( 'type=monthly&show_post_count=1' ); ?>
 		</ul>
 
 		<h4><?php _e( 'Posts:', 'genesis' ); ?></h4>
