@@ -1277,7 +1277,7 @@ div.gform_footer input.button,
 	font-weight: normal;
 	padding: 3px 5px;
 	text-decoration: none;
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 }
 
 div.gform_footer input.button:hover,
