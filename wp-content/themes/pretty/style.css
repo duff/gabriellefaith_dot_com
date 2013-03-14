@@ -1671,7 +1671,7 @@ body.pretty-pink {
 
 .pretty-pink .entry-content ul li,
 .pretty-pink .widget-area li {
-	background: url(images/pink/heart.png) no-repeat top left;
+	/* background: url(images/pink/heart.png) no-repeat top left; */
 }
 
 .pretty-pink .post {
