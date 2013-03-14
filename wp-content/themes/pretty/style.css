@@ -385,7 +385,7 @@ li.sfHover {
 	color: #6db9ae;
 	margin: 0 0 10px;
 	overflow: hidden;
-	text-transform: uppercase;
+	/*text-transform: uppercase; */
 	width: 960px;
 }
 
@@ -529,7 +529,7 @@ li.sfHover {
 	clear: both;
 	color: #6db9ae;
 	overflow: hidden;
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 	width: 960px;
 }
 
@@ -891,7 +891,7 @@ h4 {
 	font-size: 14px;
 	margin: 0 0 10px;
 	padding: 8px 0 8px 8px;
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 }
 
 h5 {
@@ -1414,7 +1414,7 @@ div.gform_footer input.button:hover,
 	height: 70px;
 	overflow: hidden;
 	text-align: center;
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 	width: 960px;
 }
 
@@ -1439,7 +1439,7 @@ div.gform_footer input.button:hover,
 	font-size: 14px;
 	padding: 15px 0 20px;
 	text-align: center;
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 	width: 960px;
 }
 	
