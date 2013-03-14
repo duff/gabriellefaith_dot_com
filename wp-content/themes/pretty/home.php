@@ -1,6 +1,6 @@
 <?php
-remove_action( 'genesis_loop', 'genesis_do_loop' );
-add_action( 'genesis_loop', 'pretty_grid_loop_helper' );
+/* remove_action( 'genesis_loop', 'genesis_do_loop' ); */
+/* add_action( 'genesis_loop', 'pretty_grid_loop_helper' ); */
 
 /** Add support for Genesis Grid Loop */
 function pretty_grid_loop_helper() {
