@@ -192,7 +192,7 @@ a img {
 	font-size: 48px;
 	line-height: 60px;
 	margin: 70px 0 10px;
-	text-transform: lowercase;
+	/* text-transform: lowercase; */
 }
 
 .full-width-header #title {
@@ -947,7 +947,7 @@ h6 {
 .post-info {
 	font-size: 11px;
 	margin: 5px 0 10px;
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 }
 
 /* After Post Ad
@@ -966,7 +966,7 @@ h6 {
 	clear: both;
 	font-size: 11px;
 	padding: 0 0 10px;
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 }
 
 
