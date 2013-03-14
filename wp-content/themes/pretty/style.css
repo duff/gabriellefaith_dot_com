@@ -934,7 +934,7 @@ h6 {
 
 .entry-content ul li,
 .widget-area li {
-	background: url(images/heart.png) no-repeat top left;
+	/* background: url(images/heart.png) no-repeat top left; */
 	list-style-type: none;
 	padding: 0 0 2px 15px;
  	word-wrap: break-word;
