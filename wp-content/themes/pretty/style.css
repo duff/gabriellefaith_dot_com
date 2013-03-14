@@ -894,6 +894,20 @@ h4 {
 	/* text-transform: uppercase; */
 }
 
+.sidebar.widget-area ul li {
+	border-bottom: 1px dashed #ddd;
+	list-style-type: none;
+	margin: 0 0 7px;
+	padding: 0 0 5px;
+	word-wrap: break-word;
+}
+
+.sidebar.widget-area ul ul li {
+	border: none;
+	margin: 0;
+}
+
+
 h5 {
 	font-size: 14px;
 }
