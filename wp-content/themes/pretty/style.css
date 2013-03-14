@@ -210,7 +210,7 @@ a img {
 	font-size: 14px;
 	font-style: italic;
 	font-weight: bold;
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 }
 
 .full-width-header #description {
